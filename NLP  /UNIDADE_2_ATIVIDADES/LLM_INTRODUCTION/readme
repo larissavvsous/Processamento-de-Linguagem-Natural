@@ -1,0 +1,13 @@
+se surgir esse erro:
+
+TypeError: Descriptors cannot not be created directly
+
+tentar:
+
+pip install protobuf==3.20.0
+
+
+para instalar llm.yml
+
+conda env create -f llm.yaml
+conda activate llm
